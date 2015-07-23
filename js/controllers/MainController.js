@@ -40,7 +40,7 @@ app.controller('MainController', ['$scope', function($scope) {
     developer: 'Chico Dusty', 
     price: 2.99 
   },
-      { 
+    { 
     icon: 'img/move.jpg', 
     title: 'MOVE', 
     developer: 'MOVE, Inc.', 
@@ -51,7 +51,7 @@ app.controller('MainController', ['$scope', function($scope) {
     title: 'Shutterbugg', 
     developer: 'Chico Dusty', 
     price: 2.99 
-  } 
+  }
 ];
   
 }]);
